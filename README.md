@@ -39,8 +39,6 @@ title: JavaScript.info dark theme
 
 - I did this quickly, hopefully I caught everything.
 
----
-
 ## How to use
 
 You should be using the browser add-on [Stylus](https://add0n.com/stylus.html). Do **not** use Stylish as it has security issues. For reference, [Stylus on GitHub](https://github.com/openstyles/stylus).
@@ -49,10 +47,10 @@ You should be using the browser add-on [Stylus](https://add0n.com/stylus.html). 
 
 [Stylus for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 
-Next, you can simply go to [Userstyles.org](https://userstyles.org/styles/164524/the-colorado-sun-dark-theme) and get it [directly](https://userstyles.org/styles/164524/the-colorado-sun-dark-theme).
+Next, you can simply go to [OpenUserCSS](https://openusercss.org/theme/5bbfc9e57dd88f0c002c0713) or [Userstyles.org](https://userstyles.org/styles/164524/the-colorado-sun-dark-theme) and get it install it.
 
 #### Screenshots
 
-![Home Page view](https://github.com/obscuredetour/javascript-info-dark/raw/master/ss-homepage.jpg)
+![Home page view](https://raw.githubusercontent.com/obscuredetour/javascript-info-dark/master/ss-homepage.png)
 
-![Article view](https://github.com/obscuredetour/javascript-info-dark/raw/master/ss-js-functions.jpg)
+![Internal page view](https://raw.githubusercontent.com/obscuredetour/javascript-info-dark/master/ss-js-functions.png)
