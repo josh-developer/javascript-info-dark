@@ -6,11 +6,17 @@ title: JavaScript.info dark theme
 
 ## Roadmap
 
+- [ ] Fix 'Courses' section of website
 - [ ] Create variables
 - [ ] Clean up code base and add comments
 
 
 ## Changelog
+
+### **1.5 - 11 Dec 2018**
+
+- Fixed home page background and heading colors
+- Fixed lists' bullet and number color
 
 ### **1.4 - 08 Oct 2018**
 
